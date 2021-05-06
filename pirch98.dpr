@@ -5,7 +5,8 @@ program pirch98;
 uses
   Windows,
   Forms,
-  Main in 'Main.pas' {MainForm};
+  Main in 'Main.pas' {MainForm},
+  Utils in 'Utils.pas';
 
 {$R *.res}
 {$R bitmaps.RES}
