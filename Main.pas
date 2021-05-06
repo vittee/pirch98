@@ -249,7 +249,7 @@ begin
   // 004cb78e
   with TIniFile.Create('PIRCHUTL.INI') do
   begin
-    ReadString()
+
   end;
 
   // 004CBC0B
